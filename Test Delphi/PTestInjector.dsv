@@ -1,8 +1,8 @@
 ﻿[ClosedView_RDpcUFJPSkVUT1MtQnJhc2lsXEFwcEluamVjdG9CclxTb3VyY2VcYXBwLmluamVjdG9yLnBhcw==]
 Module=D:\PROJETOS-Brasil\AppInjectoBr\Source\app.injector.pas
-CursorX=41
-CursorY=394
-TopLine=36
+CursorX=32
+CursorY=99
+TopLine=332
 LeftCol=1
 Elisions=
 Bookmarks=
@@ -167,7 +167,6 @@ LeftCol=1
 Elisions=
 Bookmarks=
 EditViewName=D:\PROJETOS-Brasil\AppInjectoBr\Source\Core\app.injector.service.pas
-
 [ClosedView_RDpcUFJPSkVUT1MtQnJhc2lsXEFwcEluamVjdG9CclxTb3VyY2VcTGF6YXJ1c1xhcHAuaW5qZWN0
 b3IubGF6YXJ1cy5wYXM=]
 Module=D:\PROJETOS-Brasil\AppInjectoBr\Source\Lazarus\app.injector.lazarus.pas
